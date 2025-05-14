@@ -1,6 +1,6 @@
 # Dicewood Demo [RUS]
 
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3730820/d5c1ee4c0c036fac38f308de911f28b7adb95799/ss_d5c1ee4c0c036fac38f308de911f28b7adb95799.600x338.jpg?t=1747132166" alt="Dicewood Demo Banner" width="1000"/>
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393850/d5c1ee4c0c036fac38f308de911f28b7adb95799/ss_d5c1ee4c0c036fac38f308de911f28b7adb95799.1920x1080.jpg?t=1747123497" alt="Dicewood Demo Banner" width="1000"/>
 
 ## О проекте
 

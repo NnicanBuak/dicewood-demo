@@ -11,15 +11,15 @@ public class RussifierPlugin : BaseUnityPlugin
         {"Start Game", "Начать игру"},
         {"Options", "Настройки"},
     };
-    
+
     private void Awake()
     {
-        var harmony = new Harmony("com.yourname.dicewood.russifier");
+        var harmony = new Harmony("com.nnican.dicewood.russifier");
         harmony.PatchAll();
-        
+
         Logger.LogInfo("Русификатор загружен!");
     }
-    
+
     [HarmonyPatch(typeof(TextManager), "SetText")]
     class TextPatch
     {
